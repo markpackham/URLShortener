@@ -1,0 +1,5 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+{
+    "longUrl":"https://www.amazon.com/Constantine-Keanu-Reeves/dp/B0091W10TS/ref=sr_1_1?keywords=constantine&qid=1562833433&s=gateway&sr=8-1"
+}
